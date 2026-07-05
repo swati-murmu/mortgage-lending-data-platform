@@ -1,0 +1,15 @@
+data/
+*.duckdb
+*.parquet
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+logs/
+spark-warehouse/
+metastore_db/
+derby.log
+.pytest_cache/
